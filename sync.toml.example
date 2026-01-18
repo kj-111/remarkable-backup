@@ -1,0 +1,11 @@
+# sync.toml - PDF sync configuration
+#
+# Copy this file to sync.toml and adjust the paths.
+#
+# Format: pattern = "destination"
+# Pattern: substring match in PDF filename (without .pdf)
+# Destination: full path to output file
+
+[sync]
+# effective-java = "/path/to/documents/effective-java-annotated.pdf"
+# practical-vim = "/path/to/documents/practical-vim-annotated.pdf"
